@@ -1,15 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: coursework
-description: List of my coursework during my academic career
+title: Coursework
+description: Detailed descriptions of my coursework during my academic career
 nav: true
 nav_order: 6
 ---
 
 {% assign courses_by_semester = site.courses | group_by: "semester" %}
 {% for semester in courses_by_semester %}
-  <div class="semester-heading">{{ semester.name }}</div>
+  {% assign semester_name, university_name = semester.name | split: ' - ' %}
+  <div class="semester-heading">{{ semester_name }} - {{ university_name }}</div>
   <ul class="course-listing">
     {% for course in semester.items %}
       <li>
@@ -22,3 +23,4 @@ nav_order: 6
     {% endfor %}
   </ul>
 {% endfor %}
+
