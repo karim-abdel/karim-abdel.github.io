@@ -20,7 +20,7 @@ $max-content-width: {{ site.max_width }};
 ;
 .semester-heading {
   color: blue;
-  font-size: 1.2em; /* Adjust the size as needed */
+  font-size: 1.25em; /* Adjust the size as needed */
 }
 
 .course-listing {
@@ -38,4 +38,13 @@ $max-content-width: {{ site.max_width }};
 
 .course-comment {
   font-style: italic; /* Italicizes the course comment */
+}
+.university-name {
+  font-size: 1.25em; /* Smaller than the semester heading */
+  color: blue;
+  margin-bottom: 10px; /* Space before the course list starts */
+}
+
+.course-title {
+  margin-left: 20px; /* Indentation for the course title */
 }
