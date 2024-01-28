@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: Coursework
-description: Just a simple page listing my coursework during my academic carrer
+description: Detailed descriptions of my coursework during my academic career
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{% assign courses_by_semester = site.courses | group_by: "semester" %}
+{% for semester in courses_by_semester %}
+  <h2>{{ semester.name }}</h2>
+  <ul>
+    {% for course in semester.items %}
+      <li>
+        <span>{{ course.code }}</span>
+        <a href="{{ course.url }}">{{ course.title }}</a>
+        {% if course.comments %}
+          <span> - {{ course.comments }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
-Organize your courses by years, topics, or universities, however you like!
