@@ -51,4 +51,4 @@ I am always open and excited to collaborate on interesting projects. If you are 
 </a>
   </div>
 </body>
-<p style="margin-bottom: 50px;">
+<p style="margin-bottom: 30px;">
