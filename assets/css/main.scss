@@ -18,3 +18,24 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+.semester-heading {
+  color: blue;
+  font-size: 0.85em; /* Adjust the size as needed */
+}
+
+.course-listing {
+  margin-left: 0;
+  list-style-type: none; /* Removes bullets from the list */
+}
+
+.course-listing li {
+  padding: 5px 0; /* Adds some space between the course rows */
+}
+
+.course-code {
+  font-weight: bold; /* Makes the course code bold */
+}
+
+.course-comment {
+  font-style: italic; /* Italicizes the course comment */
+}
