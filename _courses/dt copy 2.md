@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Linear Algebra and Geometry"
+title: "Advanced Analysis and Optimization I "
 description: 
-semester: "Fall 2020"
+semester: "Fall 2021"
 university: 'Bocconi University'
 comments: 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Linear Algebra and Geometry"
+title: "Computer Science I - Programming"
 description: 
 semester: "Fall 2020"
 university: 'Bocconi University'

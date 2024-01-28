@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Linear Algebra and Geometry"
+title: "Computational AI in Economics"
 description: 
-semester: "Fall 2020"
+semester: "Fall 2022"
 university: 'Bocconi University'
 comments: 
 ---

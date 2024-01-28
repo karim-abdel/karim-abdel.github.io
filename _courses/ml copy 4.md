@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Linear Algebra and Geometry"
+title: "Digital Ethics Seminar"
 description: 
-semester: "Fall 2020"
+semester: "Spring 2022"
 university: 'Bocconi University'
 comments: 
 ---

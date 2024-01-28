@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Coursework
-description: Detailed descriptions of my coursework during my academic career
+title: coursework
+description: List of my coursework during my academic career
 nav: true
 nav_order: 6
 ---

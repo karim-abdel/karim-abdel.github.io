@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Linear Algebra and Geometry"
+title: "Mathematical Analysis II"
 description: 
-semester: "Fall 2020"
+semester: "Spring 2021"
 university: 'Bocconi University'
 comments: 
 ---
