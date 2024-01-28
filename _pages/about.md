@@ -45,5 +45,9 @@ Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI
     <a href="mailto:karim.abdelsadekk@gmail.com" target="_blank" title="Send me an email">
   <i class="fas fa-solid fa-envelope"></i>
 </a>
+<!-- CV Icon -->
+    <a href="Karim_CV_1.pdf" target="_blank" title="View my CV">
+      <img src="cv_icon.png" alt="CV Icon">
+    </a>
   </div>
 </body>
