@@ -11,9 +11,9 @@ profile:
   more_info: "&nbsp;"
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 I am a first-year MSc in Artificial Intelligence student at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in Reinforcement Learning, Logic,(algorithmic) game theory, and AI Safety. My prior research work includes learning theory and online learning, and more broadly theoretical computer science applied to ML. 
 
