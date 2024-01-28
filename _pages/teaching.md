@@ -9,12 +9,9 @@ nav_order: 6
 
 {% assign courses_by_semester = site.courses | group_by: "semester" %}
 {% for semester_group in courses_by_semester %}
-  <h2 class="semester-heading">{{ semester_group.name }}</h2>
-  {% assign courses = semester_group.items | sort: 'title' %}
-  {% for course in courses %}
-    {% if forloop.first %}
-      <h3 class="university-name">{{ course.university }}</h3>
-    {% endif %}
+  {% assign first_course = semester_group.items | first %}
+  <h2 class="semester-heading">{{ semester_group.name }} - {{ first_course.university }}</h2>
+  {% for course in semester_group.items %}
     <div class="course-title">{{ course.title }}</div>
   {% endfor %}
 {% endfor %}
