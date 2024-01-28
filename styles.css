@@ -1,49 +1,49 @@
 /* Style the Twitter icon */
 .social-icons a i.fa-brands.fa-square-x-twitter {
-    font-size: 34px; /* Adjust the size as needed */
+    font-size: 30px; /* Adjust the size as needed */
     color: #000000; /* Twitter color, replace with your desired color */
     margin-right: 20px; /* Spacing between icons */
   }
   
   /* Style the LinkedIn icon */
   .social-icons a i.fa-brands.fa-linkedin {
-    font-size: 34px; /* Adjust the size as needed */
+    font-size: 30px; /* Adjust the size as needed */
     color: #000000; /* LinkedIn color, replace with your desired color */
     margin-right: 20px; /* Spacing between icons */
   }
   
   /* Style the GitHub icon */
   .social-icons a i.fab.fa-square-github {
-    font-size: 34px; /* Adjust the size as needed */
+    font-size: 30px; /* Adjust the size as needed */
     color: #000000; /* GitHub color, replace with your desired color */
     margin-right: 20px; /* Spacing between icons */
   }
   
   /* Style the CV icon */
   .social-icons a i.fas.fa-file {
-    font-size: 34px; /* Adjust the size as needed */
+    font-size: 30px; /* Adjust the size as needed */
     color: #000; /* Icon color, replace with your desired color */
     margin-right: 20px; /* Spacing between icons */
   }
   
   /* Style the Email icon */
   .social-icons a i.fas.fa-solid.fa-envelope {
-    font-size: 34px; /* Adjust the size as needed */
+    font-size: 30px; /* Adjust the size as needed */
     color: #000; /* Icon color, replace with your desired color */
     margin-right: 20px; /* Spacing between icons */
   }
   
   .social-icons img {
-    width: 34px; /* Set the width as needed */
-    height: 34px; /* Set the height as needed */
-    vertical-align: middle; /* Aligns the icon vertically */
+    width: 30px; /* Set the width as needed */
+    height: 30px; /* Set the height as needed */
+    vertical-align: top ; /* Aligns the icon vertically */
   }
   
   /* CV Icon Specific Style */
   .social-icons a.cv-icon {
     /* If you want a different size for the CV icon, set it here */
-    width: 34px;
-    height: 34px;
+    width: 30px;
+    height: 30px;
   }
   
   .social-icons a.cv-icon:hover {
