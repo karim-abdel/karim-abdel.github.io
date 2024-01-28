@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 I am a first-year MSc in Artificial Intelligence student at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in Reinforcement Learning, Logic,(algorithmic) game theory, and AI Safety. My prior research work includes learning theory and online learning, and more broadly theoretical computer science applied to ML. 
 
-Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR2024](). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
+Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
 
 <head>
   <!-- Link to your CSS file -->
