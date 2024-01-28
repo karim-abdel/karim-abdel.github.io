@@ -12,6 +12,6 @@ nav_order: 6
   {% assign first_course = semester_group.items | first %}
   <h2 class="semester-heading">{{ semester_group.name }} - {{ first_course.university }}</h2>
   {% for course in semester_group.items %}
-    <div class="course-title">{{ course.title }}</div>
+    <p class="course-title">{{ course.title }}</p>
   {% endfor %}
 {% endfor %}
