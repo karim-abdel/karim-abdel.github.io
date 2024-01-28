@@ -20,7 +20,7 @@ I am a first-year MSc student in Artificial Intelligence at the [University of A
 Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
 
 I am always open and excited to collaborate on interesting projects. If you are interested to work together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at uva dot nl.
-
+<p style="margin-bottom: 50px;">
 <head>
   <!-- Link to your CSS file -->
   <link rel="stylesheet" type="text/css" href="styles.css">
@@ -50,3 +50,4 @@ I am always open and excited to collaborate on interesting projects. If you are 
 </a>
   </div>
 </body>
+</p>
