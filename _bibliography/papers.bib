@@ -2,7 +2,19 @@
 
 @article{karimalg,
   abbr={ICLR},
-  title={Algorithms for Caching and MTS with reduced number of predictionsss},
+  title={Algorithms for Caching and MTS with reduced number of predictions},
+  author={Abdel Sadek, Karim and Elias, Marek},
+  journal={International Conference on Learning Representations (ICLR)},
+  abstract={ML-augmented algorithms utilize predictions to achieve performance beyond their worst-case bounds. Producing these predictions might be a costly operation – this motivated Im et al. (2022) to introduce the study of algorithms which use predictions parsimoniously. We design parsimonious algorithms for caching and MTS with action predictions, proposed by Antoniadis et al. (2023), focusing on the parameters of consistency (performance with perfect predictions) and smoothness (dependence of their performance on the prediction error). Our algorithm for caching is 1-consistent, robust, and its smoothness deteriorates with the decreasing number of available predictions. We propose an algorithm for general MTS whose consistency and smoothness both scale linearly with the decreasing number of predictions. Without the restriction on the number of available predictions, both algorithms match the earlier guarantees achieved by Antoniadis et al. (2023).},
+  year={2024},
+  pdf={algorithmscach.pdf},
+  preview={cachingmts.png},
+  selected={true}
+}
+
+@article{karimalg,
+  abbr={ICLR},
+  title={Algorithms for Caching and MTS with reduced number of predictions},
   author={Abdel Sadek, Karim and Elias, Marek},
   journal={International Conference on Learning Representations (ICLR)},
   abstract={ML-augmented algorithms utilize predictions to achieve performance beyond their worst-case bounds. Producing these predictions might be a costly operation – this motivated Im et al. (2022) to introduce the study of algorithms which use predictions parsimoniously. We design parsimonious algorithms for caching and MTS with action predictions, proposed by Antoniadis et al. (2023), focusing on the parameters of consistency (performance with perfect predictions) and smoothness (dependence of their performance on the prediction error). Our algorithm for caching is 1-consistent, robust, and its smoothness deteriorates with the decreasing number of available predictions. We propose an algorithm for general MTS whose consistency and smoothness both scale linearly with the decreasing number of predictions. Without the restriction on the number of available predictions, both algorithms match the earlier guarantees achieved by Antoniadis et al. (2023).},
@@ -18,10 +30,9 @@
   title={'Explaining RL decisions with trajectories': A reproducibility Study},
   author={Abdel Sadek, Karim and Nulli, Matteo and Velja, Joan and Vincenti, Jort},
   journal={Work in progress/under review},
-  %abstract={We propose a new algorithm for caching and MTS with reduced number of predictions.},
+  abstract={This work investigates the reproducibility of the paper " Explaining RL decisions with trajectories “ by Deshmukh et al. (2023). The original paper introduces a novel approach in explainable reinforcement learning based on the attribution decisions of an agent to specific clusters of trajectories encountered during training. We verify the main claims from the paper, which state that (i) removing trajectories induces a lower initial state value, (ii) clusters present high-level behaviours, (iii) distant trajectories influence the decision of an agent, and (iv) humans correctly identify the attributed trajectories to the decision of the agent. We recover the environments used by the authors based on the partial original code they provided for one of the environments. While we confirm that (i), (ii), and (iii) partially hold, we extend on the largely qualitative experiments from the authors by introducing a quantitative metric to further support (iii), and new experiments and visual results for (i). Moreover, we investigate the use of different clustering algorithms and encoder architectures to further support (ii). We could not support (iv), given the limited extent of the original experiments. We conclude that, while some of the claims can be supported, further investigations and experiments could be of interest. We recognize the novelty of the work from the authors and hope that our work paves the way for clearer and more transparent approaches.},
   year={2024},
   %pdf={algorithmscach.pdf},
-  preview={rl.png}
+  preview={rl.png},
+  selected={true}
 }
-
-%abstract={This work investigates the reproducibility of the paper " Explaining RL decisions with trajectories “ by Deshmukh et al. (2023). The original paper introduces a novel approach in explainable reinforcement learning based on the attribution decisions of an agent to specific clusters of trajectories encountered during training. We verify the main claims from the paper, which state that (i) removing trajectories induces a lower initial state value, (ii) clusters present high-level behaviours, (iii) distant trajectories influence the decision of an agent, and (iv) humans correctly identify the attributed trajectories to the decision of the agent. We recover the environments used by the authors based on the partial original code they provided for one of the environments. While we confirm that (i), (ii), and (iii) partially hold, we extend on the largely qualitative experiments from the authors by introducing a quantitative metric to further support (iii), and new experiments and visual results for (i). Moreover, we investigate the use of different clustering algorithms and encoder architectures to further support (ii). We could not support (iv), given the limited extent of the original experiments. We conclude that, while some of the claims can be supported, further investigations and experiments could be of interest. We recognize the novelty of the work from the authors and hope that our work paves the way for clearer and more transparent approaches.},
