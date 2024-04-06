@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Automated Planning"
+title: "Game Theory"
 description: 
 semester: "Spring 2024"
 semester_sort: 202405
