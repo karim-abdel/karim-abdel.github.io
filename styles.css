@@ -36,9 +36,8 @@
   .social-icons a img.gg-icon {
     width: 30px; /* Adjust the size as needed */
     height: 30px; /* Ensure the icon stays square */
-    filter: invert(100%); /* Make the icon black */
     color: #000; /* Icon color, replace with your desired color */
-    margin-right: 20px; /* Spacing between icons */
+    margin-right: 30px; /* Spacing between icons */
 }
   
   .social-icons img {
