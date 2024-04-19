@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started to work on Goal Misgeneralization in RL with Usman Anwar at Kruger AI Safety Lab at the University of Cambridge.
+I started to work on Goal Misgeneralization in RL with Usman Anwar at Krueger AI Safety Lab at the University of Cambridge.
