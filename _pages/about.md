@@ -40,17 +40,17 @@ I am always open and excited to collaborate on  projects. If you are interested 
     <a href="mailto:karim.abdelsadekk@gmail.com" target="_blank" title="Send me an email">
       <i class="fas fa-solid fa-envelope"></i>
     </a>
-    <!-- CV Icon -->
-    <a href="Karim_CV_1.pdf" target="_blank" title="View my CV" class="cv-icon">
-      <img src="cv_icon.png" alt="CV Icon">
-    </a>
     <!-- GitHub Icon -->
     <a href="https://github.com/karim-abdel" target="_blank" title="Follow me on GitHub">
       <i class="fab fa-square-github"></i>
     </a>
     <!-- Google Scholar Icon -->
-    <a href="https://scholar.google.com/citations?user=mopk5EAAAAAJ&hl=it&oi=ao" target="_blank" title="See my Google Scholar">
-      <img src="gg_icon.png" alt="GG Icon" class="gg-icon">
+    <a href="https://scholar.google.com/citations?user=mopk5EAAAAAJ&hl=it&oi=ao" target="_blank" title="See my Google Scholar" class="gg-icon">
+      <img src="gg_icon.png" alt="GG Icon"> 
+    </a>
+    <!-- CV Icon -->
+    <a href="Karim_CV_1.pdf" target="_blank" title="View my CV" class="cv-icon">
+      <img src="cv_icon.png" alt="CV Icon">
     </a>
 
   </div>
