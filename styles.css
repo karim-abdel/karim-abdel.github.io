@@ -50,7 +50,6 @@
   /* gg Icon Specific Style */
   .social-icons a.gg-icon {
     /* If you want a different size for the GG icon, set it here */
-    width: 30px;
+    width: 20px;
     height: 30px;
-    margin-right: 20px;
   }
