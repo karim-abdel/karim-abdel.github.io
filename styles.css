@@ -33,7 +33,7 @@
     margin-right: 20px; /* Spacing between icons */
   }
 
-  .social-icons a img.gg-icon {
+  .social-icons a i.fab.fa-google-scholar {
     width: 30px; /* Adjust the size as needed */
     height: 30px; /* Ensure the icon stays square */
     color: #000; /* Icon color, replace with your desired color */

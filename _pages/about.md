@@ -15,7 +15,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a first-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in Reinforcement Learning, Logic, (Algorithmic) Game Theory, and AI Alignment. I am currently working on goal misgeneralization and specification misgeneralization in RL with [Usman Anwar](https://uzman-anwar.github.io/) at the [Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/). My prior research work includes learning theory and online learning, and more broadly theoretical computer science applied to ML. 
+I am a first-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in Reinforcement Learning, Cooperative AI, (Algorithmic) Game Theory, and AI Alignment. I am currently working on goal misgeneralization and specification misgeneralization in RL with [Usman Anwar](https://uzman-anwar.github.io/) and [Michael Dennis](https://www.michaeldennis.ai/) at the [Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/). 
 
 Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
 
@@ -39,20 +39,23 @@ I am always open and excited to collaborate on  projects. If you are interested 
     <a href="https://github.com/karim-abdel" target="_blank" title="Follow me on GitHub">
       <i class="fab fa-square-github"></i>
     </a>
-    
+    <!-- Google Scholar Icon -->
+    <a href="https://scholar.google.com/citations?user=mopk5EAAAAAJ&hl=it&oi=ao" target="_blank" title="See my Google Scholar">
+      <i class="fab fa-google-scholar"></i>
+    </a>
     <!-- Email Icon -->
     <a href="mailto:karim.abdelsadekk@gmail.com" target="_blank" title="Send me an email">
-  <i class="fas fa-solid fa-envelope"></i>
-</a>
-<!-- CV Icon -->
-<a href="Karim_CV_1.pdf" target="_blank" title="View my CV">
-    <img src="cv_icon.png" alt="CV Icon" class="cv-icon">
-</a>
-<!-- Google Scholar Icon -->
-    <a href="https://scholar.google.com/citations?user=mopk5EAAAAAJ&hl=it&oi=ao" target="_blank" title="See my Google Scholar">
-    <img src="gg_scholar.png" alt="GG Icon" class="gg-icon">
+      <i class="fas fa-solid fa-envelope"></i>
     </a>
+<!-- CV Icon -->
+    <a href="Karim_CV_1.pdf" target="_blank" title="View my CV">
+      <img src="cv_icon.png" alt="CV Icon" class="cv-icon">
+    </a>
+
+    
   </div>
 </body>
 
 <p style="margin-bottom: 30px;">
+
+
