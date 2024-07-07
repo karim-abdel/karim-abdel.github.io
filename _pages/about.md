@@ -42,7 +42,7 @@ I am always open and excited to collaborate on  projects. If you are interested 
     </a>
     <!-- Google Scholar Icon -->
     <a href="https://scholar.google.com/citations?user=mopk5EAAAAAJ&hl=it&oi=ao" target="_blank" title="See my Google Scholar">
-      <i class="fab fa-google-scholar"></i>
+      <img src="gg_icon.png" alt="GG Icon" class="gg-icon">
     </a>
     <!-- Email Icon -->
     <a href="mailto:karim.abdelsadekk@gmail.com" target="_blank" title="Send me an email">
