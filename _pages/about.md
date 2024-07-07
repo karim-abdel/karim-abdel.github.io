@@ -36,10 +36,6 @@ I am always open and excited to collaborate on  projects. If you are interested 
     <a href="https://www.linkedin.com/in/karimabdell/" target="_blank" title="Connect with me on LinkedIn">
       <i class="fa-brands fa-linkedin"></i>
     </a>
-    <!-- GitHub Icon -->
-    <a href="https://github.com/karim-abdel" target="_blank" title="Follow me on GitHub">
-      <i class="fab fa-square-github"></i>
-    </a>
     <!-- Email Icon -->
     <a href="mailto:karim.abdelsadekk@gmail.com" target="_blank" title="Send me an email">
       <i class="fas fa-solid fa-envelope"></i>
@@ -48,11 +44,16 @@ I am always open and excited to collaborate on  projects. If you are interested 
     <a href="Karim_CV_1.pdf" target="_blank" title="View my CV">
       <img src="cv_icon.png" alt="CV Icon" class="cv-icon">
     </a>
-    
     <!-- Google Scholar Icon -->
     <a href="https://scholar.google.com/citations?user=mopk5EAAAAAJ&hl=it&oi=ao" target="_blank" title="See my Google Scholar">
       <img src="gg_icon.png" alt="GG Icon" class="gg-icon">
     </a>
+    <!-- GitHub Icon -->
+    <a href="https://github.com/karim-abdel" target="_blank" title="Follow me on GitHub">
+      <i class="fab fa-square-github"></i>
+    </a>
+
+
   </div>
 </body>
 
