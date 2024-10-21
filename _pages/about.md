@@ -19,7 +19,7 @@ Hi, I'm Karim! I am broadly interested in Reinforcement Learning, Cooperative AI
 
 Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
 
-I am always potentially open to collaborate on projects. If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl
+I am always potentially open to collaborate on projects. If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl.
 <head>
   <!-- Link to your CSS file -->
   <link rel="stylesheet" type="text/css" href="styles.css">
