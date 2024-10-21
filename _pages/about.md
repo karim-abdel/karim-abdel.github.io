@@ -15,11 +15,11 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a first-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in Reinforcement Learning, Cooperative AI, (Algorithmic) Game Theory, and AI Alignment. I am currently working on goal misgeneralization and specification misgeneralization in RL with [Usman Anwar](https://uzman-anwar.github.io/) and [Michael Dennis](https://www.michaeldennis.ai/) at the [Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/). 
+Hi, I'm Karim! I focus mainly on Reinforcement Learning, Cooperative AI, (Algorithmic) Game Theory, and AI Alignment. I am currently an MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I'm also a Research Intern at the [Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/), working on goal misgeneralization and specification misgeneralization in RL supervised by [Michael Dennis](https://www.michaeldennis.ai/), [Usman Anwar](https://uzman-anwar.github.io/) and [David Krueger](https://davidscottkrueger.com/). 
 
 Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
 
-I am always open and excited to collaborate on  projects. If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl
+I am always potentially open to collaborate on projects. If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl
 <head>
   <!-- Link to your CSS file -->
   <link rel="stylesheet" type="text/css" href="styles.css">

@@ -32,3 +32,17 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"dennis":
+  - firstname: ["Michael"]
+    url: https://www.michaeldennis.ai/
+
+"krueger":
+  - firstname: ["David"]
+    url: https://davidscottkrueger.com/
+
+"anwar":
+  - firstname: ["Usman"]
+    url: https://uzman-anwar.github.io/
+
+  
