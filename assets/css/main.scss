@@ -48,3 +48,7 @@ $max-content-width: {{ site.max_width }};
 .course-title {
   margin-left: 20px; /* Indentation for the course title */
 }
+
+.author:contains('Abdel Sadek, Karim') {
+  font-weight: bold;
+}
