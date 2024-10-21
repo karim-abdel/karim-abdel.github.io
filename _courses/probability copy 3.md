@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Computer Science II - Theory, Algorithms and DS"
+title: "Computer Science II - Computing Theory and Algorithms"
 description: 
 semester: "Spring 2021"
 semester_sort: 202105
