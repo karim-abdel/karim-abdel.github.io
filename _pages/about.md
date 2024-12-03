@@ -15,11 +15,22 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Hi, I'm Karim! I am broadly interested in Reinforcement Learning, Cooperative AI, (Algorithmic) Game Theory, and AI Alignment. I am currently an MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I'm also a Research Intern at the [Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/), working on goal misgeneralization and specification misgeneralization in RL supervised by [Michael Dennis](https://www.michaeldennis.ai/), [Usman Anwar](https://uzman-anwar.github.io/) and [David Krueger](https://davidscottkrueger.com/). 
 
-Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on learning theory and theory of algorithms. The [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
+Hi, I'm Karim! I am an MSc student at the University of Amsterdam. Currently, I am an intern at the[Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/), working on Goal Misgeneralization and Unsupervised Environment Design supervised by [Michael Dennis](https://www.michaeldennis.ai/), [Usman Anwar](https://uzman-anwar.github.io/) and [David Krueger](https://davidscottkrueger.com/). Starting in January 2025, I will be a research intern at the Center of Human Compatible AI, working on preference learning, changing preferences, and influence incentives of assistive AI systems. At CHAI, I will be supervised by [Micah Caroll](https://micahcarroll.github.io/) and [Anand Siththaranjan](https://anands29.github.io/).
 
-I am always potentially open to collaborate on projects. If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl.
+I am broadly interested in topics at the intersection of Multi-Agent AI systems, Reinforcement Learning, AI alignment, Game Theory, and Cooperative AI.
+My research focuses on understanding and developing adaptive, robust, and safe goal-directed AI systems that collaborate effectively with humans and among themselves, both from a theoretical and empirical perspective.
+I previously graduated with a BSc in Mathematics and Computer Science from Bocconi University, where I did research in theoretical computer science, specifically on the topic of algorithms with predictions.
+
+Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Prof. Marek Elias](https://elias.ba30.eu/), working on algorithms with predictions and theory of algorithms. Our [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
+
+**I was recently awarded the highly competitive and prestigious PhD Fellowship from the Cooperative AI Foundation, which
+will fully support my graduate studies with complete funding for the entire duration of my PhD. I am applying for PhD positions for the Fall 2025 intake, so feel free to reach out if you think I could be a good fit for your lab!**
+
+If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl.
+
+
+
 <head>
   <!-- Link to your CSS file -->
   <link rel="stylesheet" type="text/css" href="styles.css">
