@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded the [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2025) to support me for the duration of my upcoming PhD!
+I have been awarded the [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2025) which will fully support me for the duration of my upcoming PhD!
