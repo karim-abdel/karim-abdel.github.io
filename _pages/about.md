@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 **I was recently awarded the prestigious [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2025), which
-will support my graduate studies with complete funding for the entire duration of my PhD. I am applying for PhD positions for the Fall 2025 intake, feel free to reach out if you would like to chat!**
+will support me with complete funding for the entire duration of my PhD. I am applying for PhD positions for the Fall 2025 intake, feel free to reach out if you would like to chat!**
 
 Hi, I'm Karim! I am an MSc student at the University of Amsterdam. Currently, I am an intern at the **[Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/),** working on Goal Misgeneralization and Unsupervised Environment Design supervised by [Michael Dennis](https://www.michaeldennis.ai/), [Usman Anwar](https://uzman-anwar.github.io/) and [David Krueger](https://davidscottkrueger.com/). 
 
