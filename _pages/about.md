@@ -26,7 +26,7 @@ Starting in January 2025, I will be a research intern at the **[Center of Human 
 I am broadly interested in topics at the intersection of **Multi-Agent AI systems**, **Reinforcement Learning**, **AI alignment**, **Game Theory**, and **Cooperative AI**. 
 
 
-Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Marek Elias](https://elias.ba30.eu/), working on algorithms with predictions and theory of algorithms. Our [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
+Before my MSc, I graduated with a BSc in Mathematics and Computer Science for AI from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/). I was advised by [Marek Elias](https://elias.ba30.eu/), working on algorithms with predictions and theory of algorithms. Our [paper]() has been accepted at [ICLR 2024](https://iclr.cc/). During my BSc, I spent the Spring '23 semester at [Georgia Tech](https://www.gatech.edu/), supported with a full-ride scolarship. 
 
 
 If you are interested in working together, have a quick chat, or anything else, please reach out! You can e-mail me at karim dot abdel dot sadek at student dot uva dot nl.
