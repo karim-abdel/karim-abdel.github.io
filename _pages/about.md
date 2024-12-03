@@ -21,7 +21,7 @@ will support my graduate studies with complete funding for the entire duration o
 
 Hi, I'm Karim! I am an MSc student at the University of Amsterdam. Currently, I am an intern at the **[Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/),** working on Goal Misgeneralization and Unsupervised Environment Design supervised by [Michael Dennis](https://www.michaeldennis.ai/), [Usman Anwar](https://uzman-anwar.github.io/) and [David Krueger](https://davidscottkrueger.com/). 
 
-Starting in January 2025, I will be a research intern at the **[Center of Human Compatible AI, UC Berkeley](https://humancompatible.ai/)**, working on preference learning, changing preferences, and influence incentives of assistive AI systems. At CHAI, I will be supervised by [Micah Caroll](https://micahcarroll.github.io/) and [Anand Siththaranjan](https://anands29.github.io/).
+Starting in January 2025, I will be a research intern at the **[Center of Human Compatible AI, UC Berkeley](https://humancompatible.ai/)**, working on preference learning, changing preferences, and influence incentives of assistive AI systems. At CHAI, I will be supervised by [Micah Carroll](https://micahcarroll.github.io/) and [Anand Siththaranjan](https://anands29.github.io/).
 
 I am broadly interested in topics at the intersection of **Multi-Agent AI systems**, **Reinforcement Learning**, **AI alignment**, **Game Theory**, and **Cooperative AI**. 
 
