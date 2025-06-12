@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://karim-abdel.github.io/sitemap.xml
