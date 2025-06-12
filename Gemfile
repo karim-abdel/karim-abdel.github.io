@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 # Jekyll and theme
 gem 'jekyll', '~> 4.3.2'
-gem 'al-folio', '~> 0.5.0'
 
 # Plugins
 gem 'jekyll-feed', '~> 0.17'
