@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'jekyll', '~> 4.3.2'
 gem 'jekyll-email-protect'
 gem 'jekyll-get-json'
+gem 'jekyll-imagemagick'
 
 # Plugins
 gem 'jekyll-feed', '~> 0.17'
