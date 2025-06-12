@@ -5,6 +5,7 @@ gem 'jekyll', '~> 4.3.2'
 gem 'jekyll-email-protect'
 gem 'jekyll-get-json'
 gem 'jekyll-imagemagick'
+gem 'jekyll-jupyter-notebook'
 
 # Plugins
 gem 'jekyll-feed', '~> 0.17'
