@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Karim! I am an MSc student at the University of Amsterdam. Currently, I am an intern at the **[Center of Human Compatible AI, UC Berkeley](https://humancompatible.ai/)**, working on assistance games, changing preferences, and influence incentives in Human-AI alignment. At CHAI, I am supervised by [Micah Carroll](https://micahcarroll.github.io/) and [Anand Siththaranjan](https://anands29.github.io/).
+Hi, I'm Karim! I am an MSc student at the University of Amsterdam. Currently, I am an intern at the **[Center of Human Compatible AI, UC Berkeley](https://humancompatible.ai/)**, working on distinguishing preferences and beliefs in Human-AI alignment. At CHAI, I am supervised by [Micah Carroll](https://micahcarroll.github.io/) and [Anand Siththaranjan](https://anands29.github.io/).
 
 
 In the summer of 2024, I was an intern at the **[Krueger AI Safety Lab](https://www.kasl.ai/), [University of Cambridge](https://www.cam.ac.uk/),** working on Goal Misgeneralization and Unsupervised Environment Design supervised by [Michael Dennis](https://www.michaeldennis.ai/), [Usman Anwar](https://uzman-anwar.github.io/) and [David Krueger](https://davidscottkrueger.com/).
