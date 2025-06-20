@@ -72,5 +72,6 @@ If you are interested in working together, have a quick chat, or anything else, 
 </body>
 
 <p style="margin-bottom: 30px;">
+</p>
 
-
+<!-- Updated: Force fresh deployment -->
