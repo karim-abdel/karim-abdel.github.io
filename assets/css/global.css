@@ -103,8 +103,8 @@ p {
     font-weight: 700 !important;
 }
 
-/* Make container-lg 20% wider than default (1140px -> 1368px) */
+/* Make container-lg 15% wider than previous (1368px -> 1573px) */
 .container-lg {
-    max-width: 1368px !important;
+    max-width: 1573px !important;
 }
 
