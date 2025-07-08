@@ -1,5 +1,5 @@
 ---
-title:          'Explaining RL Decisions with Trajectories': A Reproducibility Study"
+title:          "'Explaining RL Decisions with Trajectories': A Reproducibility Study"
 date:           2024-01-30 00:01:00 +0800
 selected:       false
 pub:            "Transactions on Machine Learning Research (TMLR) "

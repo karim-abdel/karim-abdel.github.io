@@ -10,7 +10,7 @@
             <div class="media-body">
                 {% for item in year.items %}
                 <div class="my-3 d-flex">
-                    <div>{{ item.title }}</div>
+                    <div>{{ item.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
                 </div>
                 {% endfor %}
