@@ -24,29 +24,23 @@
   - firstname: ["Karl"]
     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"elias":
-  - firstname: ["Marek"]
-    url: https://elias.ba30.eu/
+"Marek Eliáš":
+  url: https://elias.ba30.eu/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Hendrik Antoon Lorentz":
+  url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Max Planck":
+  url: https://en.wikipedia.org/wiki/Max_Planck
 
-"dennis":
-  - firstname: ["Michael"]
-    url: https://www.michaeldennis.ai/
+"Michael Dennis":
+  url: https://www.michaeldennis.ai/
 
-"krueger":
-  - firstname: ["David"]
-    url: https://davidscottkrueger.com/
+"David Krueger":
+  url: https://davidscottkrueger.com/
 
-"anwar":
-  - firstname: ["Usman"]
-    url: https://uzman-anwar.github.io/
+"Usman Anwar":
+  url: https://uzman-anwar.github.io/
 
 "Robert White":
   url: https://www.google.com/?q=Robert+White
@@ -67,3 +61,12 @@
 
 "John Doe":
   url: https://www.google.com/?q=John+Doe
+
+"Matthew Farrugia-Roberts":
+  url: https://far.in.net/
+
+"Hannah Erlebach":
+  url: https://hannaherlebach.com/
+
+"Christian Schroeder de Witt":
+  url: https://www.google.com/?q=Christian+Schroeder+de+Witt
