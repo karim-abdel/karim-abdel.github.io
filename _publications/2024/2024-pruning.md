@@ -16,6 +16,6 @@ authors:
   - Matteo Nulli*
   - Metod Jazbec#
 links:
-  Paper: https://arxiv.org/abs/2410.18952
-  Reviews: https://github.com/MatteoNulli/Vocabulary_pruning/tree/main
+  Paper: https://arxiv.org/pdf/2410.18952
+  Code: https://github.com/MatteoNulli/Vocabulary_pruning/tree/main
 ---
