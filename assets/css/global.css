@@ -3,7 +3,7 @@ body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
-    font-size: 1.25rem; /* Even bigger base font size */
+    font-size: 1.35rem; /* Much bigger base font size */
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -93,7 +93,7 @@ div.lazy {
 
 /* Make text bigger and more readable */
 p {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
     line-height: 1.6;
 }
 
