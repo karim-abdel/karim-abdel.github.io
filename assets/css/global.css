@@ -3,6 +3,7 @@ body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
+    font-size: 1.15rem; /* Increased base font size */
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -88,5 +89,11 @@ div.lazy {
 
 .email-text {
     font-family: Courier, monospace;
+}
+
+/* Make text bigger and more readable */
+p {
+    font-size: 1.15rem;
+    line-height: 1.6;
 }
 
