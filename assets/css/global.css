@@ -97,3 +97,9 @@ p {
     line-height: 1.6;
 }
 
+/* Make the name in navbar larger */
+.navbar-brand {
+    font-size: 2.2rem !important;
+    font-weight: 700 !important;
+}
+
